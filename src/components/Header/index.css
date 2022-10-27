@@ -1,0 +1,42 @@
+.head-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.web-logo {
+  width: 70px;
+  height: 70px;
+}
+.pop-up-nav {
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+.popup-cont {
+}
+.pop-up-nav-links {
+  display: flex;
+  align-items: center;
+}
+p {
+  margin-left: 5px;
+}
+.close-btn-cont {
+  width: 100%;
+  text-align: end;
+  padding: 20px;
+  background-color: transparent;
+  border: none;
+}
+.close {
+  background-color: transparent;
+  border: none;
+}
